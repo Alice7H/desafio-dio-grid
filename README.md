@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Você colocará a mão na massa e irá construir a Página de Listagem de vídeos no YouTube com CSS colocando em prática todos os conceitos aprendidos, principalmente sobre Grid Layout.
+Construir a Página de Listagem de vídeos no YouTube com CSS colocando em prática todos os conceitos aprendidos, principalmente sobre Grid Layout.
 
 ## Link do figma:
 
